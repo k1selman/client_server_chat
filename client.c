@@ -3,6 +3,8 @@
 #include <sys/socket.h> //sockets
 #include <netinet/in.h> //af_inet -- address family
 
+//CLIENT
+
 struct sockaddr_in serv; //main socket variable
 int fd; //socket file descriptor
 int conn; //connection file descriptor
