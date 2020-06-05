@@ -31,7 +31,7 @@ int main()
         if((pid = fork()) == 0){
             while(recv(conn, message, 100, 0)>0){
                 printf("Message received: %s\n", message);
-                message = "";
+                message == "";
             }
             exit(0);
         }
