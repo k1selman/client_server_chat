@@ -4,7 +4,7 @@
 
 **Idea:** Simple application that allows users to send text messages to each other.
 
-**Goal:** Learn how sending/receiving messages through the server works by programming it.
+**Goal:** Learn how sending/receiving data through the server works by programming it.
 
 **TODO:** Make a GUI, make sure to fix all the bugs (if there are any)
 
