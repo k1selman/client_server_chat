@@ -6,7 +6,7 @@
 
 **Goal:** Learn how sending/receiving data through the server works by programming it.
 
-**In order to run it one will have to: **
+**In order to run it one will have to:**
 
 **1.** Compile server and client side source code
 
