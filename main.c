@@ -8,8 +8,7 @@
 struct sockaddr_in serv; //main socket variable
 int fd; //socket file descriptor
 int conn; //connection file descriptor
-char message[100] = ""; //to store messages sent by server
-
+char message[100] = ""; //to store sent messages
 
 int main()
 {
